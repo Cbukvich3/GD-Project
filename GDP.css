@@ -1,0 +1,87 @@
+ .footer
+{
+    bottom: 0;
+    color: black;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 12pt;
+    left: 0;
+    position: fixed;
+    text-align: left;
+    width: 100%;
+	background-color: #D3D3D3;
+}
+
+
+.img-1{
+	text-align: center;
+	padding: 20px; 
+}
+
+.img-1 img {
+	padding: 0px 15px;
+}
+
+.art-one-home-img{
+	width: 50%;
+
+	background-size: cover;
+	background-position: center;
+}
+
+.art-one-home{
+	background-color: lightgrey;
+	padding: 0 20px 10px;
+	margin-bottom: 20px;
+}
+
+.art-one-home p {
+	color: white;
+	
+}
+
+.art-one-home h2 {
+	color: lightslategrey;
+	
+}
+
+
+
+@media screen and (min-width:10px) {
+.feature-images {
+		display: run-in;
+	}
+	.img-1{
+		display:inline-flex;
+		flex:auto;
+	}
+}
+
+
+
+.image3 {
+  width: auto;
+	text-align: center;
+	margin: auto;
+	display: flex;
+}
+
+
+
+body {
+	background-color: #D3D3D3;
+	font-family: "Times New Roman", Times, serif;
+    font-size: 12pt;
+}
+
+.right {
+	text-align: right;
+}
+
+.left {
+	text-align: left;
+}
+
+.image2 {
+  width: 80%;
+
+}

@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* unvisited link */
+body p a:link {
+  color: black;
+}
+
+/* visited link */
+body p a:visited {
+  color: black;
+}
+
+/* mouse over link */
+body p a:hover {
+  color: black;
+}
+
+/* selected link */
+body p a:active {
+  color: black;
+}
